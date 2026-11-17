@@ -10,6 +10,9 @@ This project analyzes the **DataCo Smart Supply Chain Dataset (180,000+ records)
 
 ## 📊 Key Business Insights
 * **Logistics Bottleneck:** **First Class** shipping has a **95%+ late delivery rate**, indicating severe SLA breaches despite being the highest-cost shipping tier.
+
+https://github.com/user-attachments/assets/7e932168-b491-4549-876a-5a2a5994d90f
+
 * **Top Revenue Drivers:** **Fishing**, **Cleats**, and **Camping & Hiking** generate the highest overall revenue and profit across departments.
 * **Fraud Risk:** High concentrations of `SUSPECTED_FRAUD` orders occur in specific regions using `TRANSFER` payment modes.
 
