@@ -24,6 +24,8 @@ https://github.com/user-attachments/assets/ce5b0a3a-1667-4fef-873d-40253da87b5b
 
 * **Fraud Risk:** High concentrations of `SUSPECTED_FRAUD` orders occur in specific regions using `TRANSFER` payment modes.
 
+https://github.com/user-attachments/assets/31d86a09-f52d-44bc-9ba6-79d272f40436" />
+
 ## 💡 Recommendations
 * Audit and renegotiate SLAs with First Class and Second Class logistics partners.
 * Implement automated verification rules for high-value `TRANSFER` transactions in high-risk regions.
