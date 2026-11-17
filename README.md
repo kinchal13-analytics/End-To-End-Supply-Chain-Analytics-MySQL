@@ -18,6 +18,10 @@ This project analyzes the **DataCo Smart Supply Chain Dataset (180,000+ records)
 https://github.com/user-attachments/assets/7e932168-b491-4549-876a-5a2a5994d90f
 
 * **Top Revenue Drivers:** **Fishing**, **Cleats**, and **Camping & Hiking** generate the highest overall revenue and profit across departments.
+
+https://github.com/user-attachments/assets/ce5b0a3a-1667-4fef-873d-40253da87b5b
+
+
 * **Fraud Risk:** High concentrations of `SUSPECTED_FRAUD` orders occur in specific regions using `TRANSFER` payment modes.
 
 ## 💡 Recommendations
