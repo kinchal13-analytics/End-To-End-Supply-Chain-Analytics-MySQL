@@ -1,5 +1,9 @@
 # End-to-End Supply Chain & Logistics Analytics (MySQL)
 
+
+https://github.com/user-attachments/assets/34726ac4-edb4-48ff-ac0c-79bac2d73d84
+
+
 ## 📌 Project Overview
 This project analyzes the **DataCo Smart Supply Chain Dataset (180,000+ records)** to identify operational bottlenecks, late delivery risks, fraud patterns, and top revenue-generating product categories using **MySQL**.
 
