@@ -13,16 +13,16 @@ This project analyzes the **DataCo Smart Supply Chain Dataset (180,000+ records)
 3. **Business KPI Analysis:** Leveraged **Multi-table JOINs, CTEs, Window Functions (`DENSE_RANK`), and Conditional Aggregation** to extract actionable insights.
 
 ## 📊 Key Business Insights
-* **Logistics Bottleneck:** **First Class** shipping has a **95%+ late delivery rate**, indicating severe SLA breaches despite being the highest-cost shipping tier.
+* **Logistics Bottleneck:** **First Class** shipping has a **96.56% late delivery(7,277/7,536) orders **second class** has 78.17% late,while **standard class** best at only 38.38% late,indicating severe SLA breaches despite being the highest-cost shipping tier.
 
 https://github.com/user-attachments/assets/7e932168-b491-4549-876a-5a2a5994d90f
 
-* **Top Revenue Drivers:** **Fishing**, **Cleats**, and **Camping & Hiking** generate the highest overall revenue and profit across departments.
+* **Top Revenue Drivers:** **Water sports** ($3,113,844 revenue,$325,146 profit) , **Cleats**(&2,634,462) and **Camping & Hiking**($2,641,623 revenue) generate the highest overall revenue and profit across departments.
 
 https://github.com/user-attachments/assets/ce5b0a3a-1667-4fef-873d-40253da87b5b
 
 
-* **Fraud Risk:** High concentrations of `SUSPECTED_FRAUD` orders occur in specific regions using `TRANSFER` payment modes.
+* **Fraud Risk:** western europe(139 froud orders) ans central america (114 froud) High concentrations of `SUSPECTED_FRAUD` orders occur in specific regions using `TRANSFER` payment modes.
 
 https://github.com/user-attachments/assets/31d86a09-f52d-44bc-9ba6-79d272f40436" />
 
